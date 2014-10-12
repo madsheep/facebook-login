@@ -1,0 +1,14 @@
+development:
+  facebook_key: "YOUR_KEY"
+  facebook_secret: "YOUR_SECRET"
+
+test:
+  facebook_key: "YOUR_KEY"
+  facebook_secret: "YOUR_SECRET"
+
+
+
+production:
+  facebook_key: "YOUR_KEY"
+  facebook_secret: "YOUR_SECRET"
+
